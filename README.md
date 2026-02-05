@@ -54,13 +54,13 @@ Time Intelligence views are included (MTD and Same Period Last Year) to enable p
 - Profit/Cost fields are not included, so profitability analysis is not covered.
 
 ## Dashboard Screenshots
-Home Dashboard
+Home Dashboard  
 ![Home Dashboard](HomeDashboard.PNG)
 
-MTD Dashboard
+MTD Dashboard  
 ![MTD Dashboard](MTD%20Dashboard.PNG)
 
-Same Period Last Year (SPLY)
+Same Period Last Year (SPLY)  
 ![SPLY Dashboard](SPLY%20Dashboard.PNG)
 
 ## Audience
