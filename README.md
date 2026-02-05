@@ -31,6 +31,28 @@ It focuses on tracking sales, units sold, transactions, and average price across
 ## Notes on DAX / Time Intelligence
 Time Intelligence views are included (MTD and Same Period Last Year) to enable period-over-period comparisons.
 
+## How to Use (Local)
+1. Download the repository or the `MobileSalesData.pbix` file.
+2. Install **Power BI Desktop** (free).
+3. Open `MobileSalesData.pbix` in Power BI Desktop.
+4. If prompted, keep `Mobile Sales Data.xlsx` in the same folder as the PBIX.
+5. Use slicers and filters to explore the dashboard.
+6. For buttons or navigation actions, use **Ctrl + Left Click** in Power BI Desktop.
+
+## Requirements
+- Power BI Desktop (Windows)
+- Microsoft Excel (for reviewing the dataset)
+
+## Project Structure
+- `MobileSalesData.pbix` — Power BI report
+- `Mobile Sales Data.xlsx` — Dataset
+- `screenshots/` — Dashboard previews
+- `README.md` — Project documentation
+
+## Limitations
+- Dataset is mock/simulated for learning and portfolio purposes.
+- Profit/Cost fields are not included, so profitability analysis is not covered.
+
 ## Dashboard Screenshots
 Home Dashboard
 ![Home Dashboard](HomeDashboard.PNG)
