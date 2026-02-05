@@ -1,0 +1,5 @@
+# Ignore OS artifacts
+Desktop.ini
+
+# Ignore Excel temp/lock files
+~$*.xlsx
